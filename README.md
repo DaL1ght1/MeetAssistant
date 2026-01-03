@@ -232,4 +232,4 @@ dist/
 
 ## License
 
-Add a `LICENSE` file to clarify usage rights (MIT is a common choice for open source).
+Licensed under the MIT License. See the LICENSE file for details.
